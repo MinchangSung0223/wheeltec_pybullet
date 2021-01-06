@@ -30,7 +30,7 @@ ang = 0
 p.setGravity(0, 0, -10)
 
 fov = 60
-aspect = 320/180
+aspect = 640/480
 near = 0.02
 far = 5
 
